@@ -59,7 +59,7 @@ a:hover {
 }
 pre {
     position: relative;
-    color: #ffffff;
+    /*color: #ffffff; */
 }
 .bg {
     background: #fff;
@@ -642,13 +642,13 @@ code + .copy-to-clipboard {
 pre {
     padding: 1rem;
     margin: 2rem 0;
-    background: #1d1f21;
+    /*background: #1d1f21;*/
     border: 0;
     border-radius: 2px;
     line-height: 1.15;
 }
 pre code {
-    color: whitesmoke;
+    /*color: whitesmoke; */
     background: inherit;
     white-space: inherit;
     border: 0;
